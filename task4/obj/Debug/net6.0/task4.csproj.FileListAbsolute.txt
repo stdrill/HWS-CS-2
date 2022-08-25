@@ -1,0 +1,15 @@
+D:\Projects\HWS CS 2\task4\bin\Debug\net6.0\task4.exe
+D:\Projects\HWS CS 2\task4\bin\Debug\net6.0\task4.deps.json
+D:\Projects\HWS CS 2\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+D:\Projects\HWS CS 2\task4\bin\Debug\net6.0\task4.dll
+D:\Projects\HWS CS 2\task4\bin\Debug\net6.0\task4.pdb
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\task4.dll
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\refint\task4.dll
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\task4.pdb
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+D:\Projects\HWS CS 2\task4\obj\Debug\net6.0\ref\task4.dll
